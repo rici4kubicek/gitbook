@@ -1,6 +1,7 @@
 # Table of contents
 
 * [😁 Test page](README.md)
+* [Tohle je novinka](tohle-je-novinka.md)
 
 ## Group 1
 
