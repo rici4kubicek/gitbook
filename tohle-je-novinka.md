@@ -6,6 +6,6 @@ description: Zkoušímmm
 
 Uvidíme co z toho vyleze
 
-* ds
+* ds nevim
 * sdf
 * sf
